@@ -1,0 +1,15 @@
+D:\Desktop\project\acmp.ru\acmp\App\bin\Debug\net7.0\App.exe
+D:\Desktop\project\acmp.ru\acmp\App\bin\Debug\net7.0\App.deps.json
+D:\Desktop\project\acmp.ru\acmp\App\bin\Debug\net7.0\App.runtimeconfig.json
+D:\Desktop\project\acmp.ru\acmp\App\bin\Debug\net7.0\App.dll
+D:\Desktop\project\acmp.ru\acmp\App\bin\Debug\net7.0\App.pdb
+D:\Desktop\project\acmp.ru\acmp\App\obj\Debug\net7.0\App.csproj.AssemblyReference.cache
+D:\Desktop\project\acmp.ru\acmp\App\obj\Debug\net7.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\project\acmp.ru\acmp\App\obj\Debug\net7.0\App.AssemblyInfoInputs.cache
+D:\Desktop\project\acmp.ru\acmp\App\obj\Debug\net7.0\App.AssemblyInfo.cs
+D:\Desktop\project\acmp.ru\acmp\App\obj\Debug\net7.0\App.csproj.CoreCompileInputs.cache
+D:\Desktop\project\acmp.ru\acmp\App\obj\Debug\net7.0\App.dll
+D:\Desktop\project\acmp.ru\acmp\App\obj\Debug\net7.0\refint\App.dll
+D:\Desktop\project\acmp.ru\acmp\App\obj\Debug\net7.0\App.pdb
+D:\Desktop\project\acmp.ru\acmp\App\obj\Debug\net7.0\App.genruntimeconfig.cache
+D:\Desktop\project\acmp.ru\acmp\App\obj\Debug\net7.0\ref\App.dll
